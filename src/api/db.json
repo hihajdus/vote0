@@ -1,0 +1,22 @@
+{
+  "users": [
+	{	"id"	: "B001", "login" : "realBeer", "uniqCode" : "12", "status": ""},
+	{	"id"	: "B002", "login" : "realBeer", "uniqCode" : "23", "status": ""},
+	{	"id"	: "B003", "login" : "realBeer", "uniqCode" : "34", "status": ""},
+	{	"id"	: "B004", "login" : "realBeer", "uniqCode" : "45", "status": ""},
+	{	"id"	: "B005", "login" : "realBeer", "uniqCode" : "56", "status": ""},
+	{	"id"	: "B006", "login" : "realBeer", "uniqCode" : "67", "status": ""},
+	{	"id"	: "B007", "login" : "realBeer", "uniqCode" : "78", "status": ""},
+	{	"id"	: "B008", "login" : "realBeer", "uniqCode" : "89", "status": ""},
+	{	"id"	: "B009", "login" : "realBeer", "uniqCode" : "90", "status": ""},
+	{	"id"	: "B010", "login" : "realBeer", "uniqCode" : "09", "status": ""},
+	{	"id"	: "B011", "login" : "realBeer", "uniqCode" : "98", "status": ""},
+	{	"id"	: "B012", "login" : "realBeer", "uniqCode" : "87", "status": ""},
+	{	"id"	: "B013", "login" : "realBeer", "uniqCode" : "76", "status": ""},
+	{	"id"	: "B014", "login" : "realBeer", "uniqCode" : "65", "status": ""},
+	{	"id"	: "B015", "login" : "realBeer", "uniqCode" : "54", "status": ""},
+	{	"id"	: "B016", "login" : "realBeer", "uniqCode" : "43", "status": ""},
+	{	"id"	: "B017", "login" : "realBeer", "uniqCode" : "32", "status": ""}
+  ]
+}
+
